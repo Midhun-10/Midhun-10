@@ -1,14 +1,18 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Midhun-10/Midhun-10/main/banner.png" alt="banner" />
+</p>
+
 # 💫 About Me:
 Hi, I'm Midhun 👋  
-Java Full Stack Developer | Spring Boot | React
 
-💻 Build scalable web apps with clean APIs & modern UI  
-🚀 Projects: AI Resume Analyzer, Food Ordering System, Student Management System  
+Full Stack Developer who enjoys building things that work — and fixing things that don’t 😄  
+
+💻 Spring Boot + React  
+🚀 Real-world projects, not just tutorials  
 🧠 200+ LeetCode | Strong in DSA & OOP  
-🤖 AI tools: Copilot, ChatGPT, Cursor  
+🤖 AI tools are my coding partners  
 
-📫 Portfolio: https://midhun-developer.netlify.app  
-🔗 LinkedIn: https://linkedin.com/in/midhun10
+⚡ Turning ideas into deployable apps, one commit at a time
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vfhf55NH) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhun10/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.midhun29102003@gmail.com) 
