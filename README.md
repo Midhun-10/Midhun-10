@@ -1,6 +1,14 @@
 # 💫 About Me:
-Hi, I'm Midhun 👋<br><br>I’m an early-career Java Full Stack Developer focused on building scalable, real-world web applications using Spring Boot and React.<br><br>💻 I specialize in:<br>- Designing RESTful APIs with clean MVC architecture<br>- Building dynamic React applications with reusable components & advanced hooks<br>- Developing full-stack systems with MySQL & MongoDB<br>- Implementing CI/CD pipelines using GitHub Actions, Docker, and modern deployment platforms<br><br>🚀 What I’ve built:<br>- AI-powered Resume Analyzer using LLM APIs<br>- Full-stack Food Ordering System with admin dashboard & 12+ APIs<br>- MERN-based Student Management System with authentication & CRUD operations<br><br>🧠 Strong in:<br>- Data Structures & Algorithms (200+ LeetCode problems)<br>- Object-Oriented Programming & system design fundamentals<br><br>🤖 AI-native developer:<br>I actively use tools like GitHub Copilot, ChatGPT, Cursor, and Claude to improve development speed and code quality.<br><br>🎯 Currently focused on:<br>- Writing production-ready backend systems<br>- Improving system design and scalability<br>- Contributing to real-world projects and open source<br><br>📫 Let’s connect:<br>- Portfolio: https://midhun-developer.netlify.app<br>- LinkedIn: https://linkedin.com/in/midhun10
+Hi, I'm Midhun 👋  
+Java Full Stack Developer | Spring Boot | React
 
+💻 Build scalable web apps with clean APIs & modern UI  
+🚀 Projects: AI Resume Analyzer, Food Ordering System, Student Management System  
+🧠 200+ LeetCode | Strong in DSA & OOP  
+🤖 AI tools: Copilot, ChatGPT, Cursor  
+
+📫 Portfolio: https://midhun-developer.netlify.app  
+🔗 LinkedIn: https://linkedin.com/in/midhun10
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vfhf55NH) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Midhun M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.midhun29102003@gmail.com) 
