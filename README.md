@@ -1,4 +1,6 @@
-![Banner]([https://via.placeholder.com/1280x300.png?text=Midhun+Full+Stack+Developer](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif))
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" />
+</p>
 
 # 💫 About Me:
 Hi, I'm Midhun 👋  
