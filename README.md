@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Midhun-10/Midhun-10/main/banner.png" alt="banner" />
-</p>
+![Banner]([https://via.placeholder.com/1280x300.png?text=Midhun+Full+Stack+Developer](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif))
 
 # 💫 About Me:
 Hi, I'm Midhun 👋  
